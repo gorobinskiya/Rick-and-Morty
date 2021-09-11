@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="rick_sanchez">Rick Sanchez</string>
+    <string name="male">Male</string>
+    <string name="human">Human</string>
+    <string name="alive">Alive</string>
+</resources>
